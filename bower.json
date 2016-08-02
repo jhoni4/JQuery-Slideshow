@@ -1,0 +1,20 @@
+{
+  "name": "JQuery-Slideshow",
+  "homepage": "https://github.com/jhoni4/JQuery-Slideshow",
+  "authors": [
+    "yonatan molla <jhoni42002@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
